@@ -1,6 +1,6 @@
 # KotlinLib
 
-Just add kotlin to the spigot.
+Just add kotlin 1.7.21 to the spigot.
 ---
 
 Native:
