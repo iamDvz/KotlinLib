@@ -1,0 +1,7 @@
+name: KotlinLib
+version: '${version}'
+main: ru.iamdvz.kotlinlib.KotlinLib
+load: STARTUP
+authors: [iamDvz]
+description: Just add kotlin to minecraft
+website: iamDvz.ru
